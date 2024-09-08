@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F0&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word,+my+name+is+Maria+Wons;I'm+22+years+old+;Welcome+to+my+profile!+💖)](https://git.io/typing-svg)
 
+## About me 
+
+## Main skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📊 GitHub Stats
+
 <div >
 <table>
 <tr>
